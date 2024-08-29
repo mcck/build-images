@@ -1,1 +1,1 @@
-FROM goharbor/harbor-registryctl:v2.11.0
+FROM goharbor/harbor-registryctl:v2.11.1
