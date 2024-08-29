@@ -1,1 +1,1 @@
-FROM goharbor/harbor-portal:v2.10.3
+FROM goharbor/harbor-portal:v2.11.0
